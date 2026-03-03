@@ -1,0 +1,31 @@
+{
+  // LaTeX Workshop: build with XeLaTeX so Russian/Cyrillic works out of the box.
+  // Also: open preview in browser to avoid conflicts with other PDF viewer extensions.
+  "latex-workshop.view.pdf.viewer": "browser",
+
+  // Workspace-only: pick ONE PDF editor to avoid “competing extensions” prompts.
+  // This uses VS Code's built-in PDF viewer for any *.pdf opened from the Explorer.
+  "workbench.editorAssociations": {
+    "*.pdf": "vscode.pdfViewer"
+  },
+
+  "latex-workshop.latex.tools": [
+    {
+      "name": "xelatex",
+      "command": "xelatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "xelatex",
+      "tools": ["xelatex"]
+    }
+  ],
+  "latex-workshop.latex.recipe.default": "xelatex"
+}
