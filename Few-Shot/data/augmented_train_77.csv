@@ -1,0 +1,1156 @@
+text,label
+My new card still says inactive when I try to pay.,0
+I just received the card and cannot activate it in the app.,0
+"Activation failed twice, what should I do next?",0
+How do I enable my physical card before the first purchase?,0
+Card setup is stuck on the activation step.,0
+"I tapped activate, but the status remains pending.",0
+Why is my card not usable even after activation confirmation?,0
+Can you walk me through activating the card manually?,0
+I entered the code but my card is still blocked as inactive.,0
+Do I need a chip-and-pin transaction to complete activation?,0
+I cannot find the activate button for this replacement card.,0
+My card arrived today; please help me turn it on.,0
+Activation keeps timing out in the app.,0
+I need the card active immediately for travel.,0
+Is there any reason a brand-new card would not activate?,0
+What is the minimum age to open an account?,1
+Can a 16-year-old sign up without a parent?,1
+Is the service available for teenagers?,1
+How old must I be to get a card?,1
+Can my 14-year-old have their own account?,1
+Are junior accounts supported in your app?,1
+Is there an age restriction for creating a profile?,1
+At what age can someone pass verification?,1
+Can children use the banking features with parental approval?,1
+"I am under 18, am I eligible?",1
+Do you offer accounts for minors?,1
+Is there a separate age policy for students?,1
+Can my son join before turning 18?,1
+Does the minimum age differ by country?,1
+Are there any limits for users who are 17?,1
+My Apple Pay top-up keeps getting declined.,2
+Can I add money with Google Pay instead of typing card details?,2
+Top up from my phone wallet fails every time.,2
+Is contactless wallet top-up supported for this card?,2
+I tried using Apple Watch to top up and it did not go through.,2
+Why will my mobile wallet card not work for top up?,2
+Can I fund the account through Google Pay on Android?,2
+The app rejects my wallet payment when I tap top up.,2
+Are prepaid cards in Apple Pay allowed for top up?,2
+Top-up works with my physical card but not with the Apple Pay token.,2
+Do you support Samsung or Google Wallet for adding funds?,2
+"My card in Google Pay is valid, but top up still fails.",2
+Is there a limit for top-ups made via a mobile wallet?,2
+"I want to top up directly from Apple Wallet, how can I do that?",2
+Wallet-based top up shows an error and cancels.,2
+Which ATMs can I use to withdraw cash?,3
+Are there fees if I take money out at another bank ATM?,3
+Can I withdraw cash internationally with this card?,3
+Why did the ATM decline my withdrawal?,3
+Is there a daily cash withdrawal cap?,3
+Can I use any cash machine or only partner ATMs?,3
+"The ATM kept my card during withdrawal, what should I do?",3
+How do I find surcharge-free ATMs nearby?,3
+Is cash withdrawal available in foreign currency?,3
+I can pay in stores but cannot withdraw at an ATM.,3
+Do contactless ATMs work with your card?,3
+What is the withdrawal limit per ATM transaction?,3
+Can I change my ATM withdrawal limit in the app?,3
+Are withdrawals blocked in some countries?,3
+Why was my cash withdrawal reversed?,3
+How can I enable automatic top-up when my balance is low?,4
+I want auto top-up every time my balance drops below 20 dollars.,4
+Can I set a monthly cap for automatic top-ups?,4
+Auto top-up did not trigger even though my balance is near zero.,4
+Where do I choose the low-balance threshold for top-up?,4
+Can auto top-up charge my linked card overnight?,4
+I need to disable auto top-up temporarily.,4
+Why did auto top-up run twice today?,4
+Is there a minimum amount for automatic top-ups?,4
+Can I use different cards for manual and auto top-up?,4
+How often can automatic top-up trigger in one day?,4
+My auto top-up setting disappeared after an app update.,4
+Can I get a notification before auto top-up executes?,4
+Is auto top-up available for virtual cards too?,4
+I set auto top-up but funds were not added.,4
+I made a bank transfer but it still is not in my balance.,5
+"Incoming transfer is marked completed by the sender, but I cannot see it.",5
+Why is my transfer pending for so long?,5
+I sent money from my UK account and nothing arrived.,5
+"The transfer reference exists, yet the funds are missing.",5
+How long do inbound bank transfers usually take?,5
+Transfer status says processing for two days.,5
+My salary transfer has not posted to the account.,5
+Can you trace an incoming transfer that is delayed?,5
+I transferred funds this morning and my balance did not update.,5
+The app shows no record of my recent bank transfer.,5
+My transfer appears stuck between banks.,5
+Can weekend timing delay incoming transfers?,5
+"The sender was debited, but I still have not received the money.",5
+Where can I check detailed transfer progress?,5
+I deposited cash and it is still not credited.,6
+My cash deposit at the kiosk is pending since yesterday.,6
+Why has my deposit not cleared yet?,6
+"I put money in through ATM deposit, but my balance stayed the same.",6
+Is there a holding period for cash deposits?,6
+I made a check deposit and it has not posted.,6
+"The deposit receipt says success, but my account is unchanged.",6
+Can you verify whether my branch deposit was received?,6
+"Cash deposit shows pending review, what does that mean?",6
+I deposited before cutoff time but nothing appeared.,6
+How long does cheque clearing take in your app?,6
+My deposit transaction vanished from my history.,6
+"I need the deposited funds urgently, can it be expedited?",6
+My deposit was accepted and then reversed.,6
+Where do I track deposit processing status?,6
+I cannot add this recipient as a beneficiary.,7
+Why is beneficiary setup failing for this account number?,7
+Transfer recipient keeps getting rejected.,7
+"The app says the beneficiary is not allowed, how do I fix it?",7
+"I verified details, but beneficiary validation still fails.",7
+Is there a waiting period after adding a new beneficiary?,7
+Can I transfer without saving the payee as a beneficiary?,7
+Beneficiary approval is stuck in a pending state.,7
+Why is my recipient blocked for bank transfer?,7
+I keep seeing beneficiary errors when sending money.,7
+Are there restrictions on international beneficiaries?,7
+The beneficiary worked before and now is denied.,7
+How can I re-verify a beneficiary profile?,7
+Is beneficiary creation limited per day?,7
+My transfer failed because beneficiary authentication failed.,7
+I sent a transfer by mistake and need to cancel it now.,8
+Can I reverse a payment that is still pending?,8
+"I entered the wrong amount, please stop the transfer.",8
+How do I cancel a bank transfer before it settles?,8
+Is there a grace period to void a transaction?,8
+I paid the wrong person; can this payment be recalled?,8
+The cancel button is missing on a pending transfer.,8
+Can support manually cancel a transfer in review?,8
+I need to undo a card-to-bank transfer immediately.,8
+"Transfer is scheduled for later today, can I cancel it?",8
+"The payment has not completed yet, and I want it stopped.",8
+I made duplicate transfers; please cancel one of them.,8
+How do I withdraw a transfer request?,8
+Can I cancel it after the recipient has not accepted yet?,8
+Please block this outgoing transaction before completion.,8
+My card expires next month; how do I get a new one?,9
+Can I request express shipping for a replacement card?,9
+I lost my card abroad and need a replacement quickly.,9
+How long does replacement card delivery usually take?,9
+Is there a fee for emergency card replacement?,9
+Can I replace a damaged card through the app?,9
+"My card is about to expire, will you send a renewal automatically?",9
+I need the new card sent to a different address.,9
+Can I keep using my virtual card while waiting for the replacement?,9
+Replacement card tracking has not updated.,9
+My card was stolen; how do I order a new one now?,9
+Can you rush a replacement before my trip?,9
+I reported a broken card and still have no replacement update.,9
+Where do I check replacement card status?,9
+Do I pay extra for next-day card replacement?,9
+Which merchants accept this card in person?,10
+Can I use this card in grocery stores and restaurants?,10
+How do I know if a shop supports payments with this card?,10
+Is this card valid for online checkout everywhere?,10
+Are there any places where this card will be declined by default?,10
+Does the card work for subscriptions and app stores?,10
+Can I pay with this card at fuel stations?,10
+Will small local stores accept this card type?,10
+Is there a map or list of supported merchants?,10
+Can I use my card at international websites?,10
+Does this card work with contactless terminals in most shops?,10
+Are gambling or crypto merchants blocked for this card?,10
+Can I use this card for hotel and car rental preauthorizations?,10
+Why does one merchant reject the card while others accept it?,10
+Please explain where this card can and cannot be used.,10
+My physical card has not arrived yet and I am still waiting.,11
+It has been over a week; where is my card delivery?,11
+Can you track my card shipment status for me?,11
+I ordered a card but I still have no delivery update.,11
+The card is delayed and I need an ETA.,11
+Why is my card taking so long to arrive?,11
+Can you check whether my card is lost in transit?,11
+My tracking information has not moved for days.,11
+I never received the card that was marked dispatched.,11
+When should I report my card as undelivered?,11
+"The app says shipped, but nothing reached my address.",11
+Is card delivery delayed in my region right now?,11
+Can support confirm the courier still has my card?,11
+What should I do if my card does not arrive after two weeks?,11
+Please investigate my missing card delivery.,11
+Can I get my new card delivered faster?,12
+Do you offer express shipping for card delivery?,12
+I need the card before my trip; can you expedite it?,12
+Can I choose a specific delivery date for my card?,12
+How quickly can a replacement card arrive in the US?,12
+What is the fastest card shipping option available?,12
+Can you prioritize my card dispatch as urgent?,12
+Is same-week delivery possible for a newly issued card?,12
+Can I upgrade my card delivery to courier service?,12
+I need an estimated arrival day for my card order.,12
+Can delivery be redirected to get the card sooner?,12
+What is the normal card delivery time to my location?,12
+I want to pay extra for quicker card delivery.,12
+Can you speed up this pending card shipment request?,12
+Please share the earliest possible delivery date for my card.,12
+"I found my card, how do I link it back in the app?",13
+My card is not showing in the app after recovery.,13
+Can I reattach a card to my profile after I found it?,13
+The app does not recognize the card I physically have.,13
+How do I pair my card with the app again?,13
+I recovered my card but it still appears missing in-app.,13
+Can you help me add my existing card to the app dashboard?,13
+Why is my card visible physically but not in the app?,13
+I need steps to reconnect the card to mobile app access.,13
+How can I restore card controls in app after finding the card?,13
+"The card is active, but it is unlinked from my app.",13
+Can I manually sync card details with my account?,13
+Please help me relink my card so I can use app controls.,13
+My app lost the card connection after reinstallation.,13
+How do I make a found card appear again in the app?,13
+My card keeps getting declined even with enough balance.,14
+I cannot pay anywhere with this card right now.,14
+Card payments suddenly stopped working today.,14
+Why does the terminal reject my card every time?,14
+The card worked yesterday but now every transaction fails.,14
+My card is active in app but does not work in stores.,14
+Can you diagnose why my card is not functioning?,14
+Online purchases fail with this card as well.,14
+I entered the PIN correctly but payment was declined.,14
+Contactless and chip payments both fail on my card.,14
+Is there a temporary block causing card failures?,14
+My card says declined at multiple merchants.,14
+Could a damaged chip cause this card issue?,14
+Please help me fix a non-working card urgently.,14
+What checks should I do when card transactions fail?,14
+Why was I charged a fee for a normal card payment?,15
+I paid by card and noticed an unexpected extra charge.,15
+There is a card payment fee on my statement I do not understand.,15
+Can you explain this surcharge applied to my card purchase?,15
+I should not be paying extra just to use my card.,15
+A merchant payment included a fee from your side.,15
+What is this additional charge attached to my card transaction?,15
+Please reverse the card payment fee that appeared today.,15
+Is there any reason card purchases are incurring fees?,15
+I was billed more than the purchase amount due to a fee.,15
+Can you clarify when card payment fees apply?,15
+I see a service fee after paying with my card in-store.,15
+This card transaction shows a processing fee unexpectedly.,15
+Are card payment fees avoidable for standard purchases?,15
+I need details about a fee charged during card payment.,15
+There is a card payment I do not recognize in my history.,16
+I was charged by an unknown merchant without my approval.,16
+This transaction was not made by me; please check it.,16
+I see an unfamiliar card purchase and want to dispute it.,16
+Someone used my card for a payment I did not authorize.,16
+How do I report a suspicious card payment?,16
+My statement shows a merchant I have never used.,16
+Please help me with an unauthorized card transaction.,16
+Can you block my card after this unknown payment?,16
+A fraudulent purchase appeared on my account.,16
+I need to raise a chargeback for this card transaction.,16
+This card payment looks like fraud to me.,16
+I did not make this purchase shown in the app.,16
+Can you investigate an unrecognized card charge?,16
+There is a payment from a strange vendor on my card.,16
+The exchange rate on my card payment looks incorrect.,17
+I was overcharged due to a poor FX rate at purchase.,17
+Why is the conversion rate so different from market rate?,17
+This foreign-currency card payment used a bad exchange rate.,17
+Can you explain the FX rate applied to my transaction?,17
+I expected interbank rate but got a worse conversion.,17
+My international purchase shows an unfavorable rate.,17
+Was dynamic currency conversion used on this payment?,17
+The app conversion for my card charge seems too high.,17
+Please review the exchange rate on yesterday's payment.,17
+I think the currency conversion charge is wrong.,17
+Can you verify if the merchant applied extra FX markup?,17
+This cross-border payment used an unexpected conversion rate.,17
+Why does my converted amount exceed the expected value?,17
+I need clarification on exchange-rate pricing for card payments.,17
+The ATM kept my card and did not return it.,18
+My card was swallowed by a cash machine just now.,18
+What should I do after an ATM retained my card?,18
+I tried to withdraw cash and the ATM captured my card.,18
+Can you help if my card is stuck inside the ATM?,18
+The machine ended the session and kept my card.,18
+I need urgent help because the ATM retained my card.,18
+How do I recover a card that an ATM took?,18
+An ATM in another city kept my card unexpectedly.,18
+Should I freeze my card if the ATM did not return it?,18
+Who contacts the ATM owner when a card is retained?,18
+My withdrawal failed and the ATM still kept the card.,18
+Please advise next steps after ATM card capture.,18
+Can you issue a replacement after ATM retention?,18
+I cannot retrieve my card from the ATM slot.,18
+I was charged a fee for withdrawing cash from ATM.,19
+Why is there an extra cash withdrawal charge?,19
+My ATM withdrawal included an unexpected fee.,19
+Can you explain this cash withdrawal commission?,19
+I took out money and got billed an additional ATM fee.,19
+Is this withdrawal surcharge from your bank or the ATM owner?,19
+How can I avoid fees when withdrawing cash?,19
+The fee on my cash withdrawal seems too high.,19
+I need a breakdown of the ATM withdrawal charge.,19
+Why did this ATM transaction cost more than requested amount?,19
+I see a service charge after taking cash out.,19
+Please review the fee applied to my recent withdrawal.,19
+Are there free ATM options to avoid withdrawal charges?,19
+This withdrawal fee was not shown clearly beforehand.,19
+Can the cash withdrawal fee be refunded?,19
+A cash withdrawal appears in my app but I did not make it.,20
+I was charged for ATM cash that I never took out.,20
+Why does my account show a withdrawal I do not recognize?,20
+There is an unauthorized cash withdrawal on my card.,20
+Please help me dispute a cash withdrawal that was not mine.,20
+"I received a notification about withdrawing cash, but I did not do it.",20
+Someone seems to have withdrawn money from my account without permission.,20
+An ATM withdrawal is listed in my history and I did not perform it.,20
+How can I report a fraudulent cash withdrawal transaction?,20
+My statement includes a withdrawal from a location I never visited.,20
+I think my card was used to withdraw cash by someone else.,20
+Can you reverse an unknown cash withdrawal on my account?,20
+I noticed cash missing due to a withdrawal I did not authorize.,20
+There is a suspicious ATM withdrawal in my recent transactions.,20
+Please investigate this cash withdrawal because it was not me.,20
+How can I change the PIN for my card?,21
+I want to update my current PIN code to a new one.,21
+Can I reset my card PIN from the app?,21
+Where can I go to change my card PIN safely?,21
+What steps are required to set a different PIN?,21
+Is it possible to change my PIN at any ATM?,21
+I forgot my old PIN and need to create a new one.,21
+Please tell me how to modify my card PIN.,21
+Can I choose my own PIN number for this card?,21
+Do I need to verify identity before changing the PIN?,21
+I need instructions to replace my existing PIN.,21
+How long does it take for a PIN change to become active?,21
+Can customer support help me change my PIN?,21
+I want to set a more secure PIN on my card.,21
+Is there any fee for changing my card PIN?,21
+I think my card is being used fraudulently.,22
+There are transactions I did not make on my account.,22
+My card activity looks suspicious and unauthorized.,22
+Please block my card because I see possible fraud.,22
+I found unknown charges and need to report fraud.,22
+Someone may have stolen my card details.,22
+How do I secure my account after fraudulent payments?,22
+Can you help me dispute card transactions caused by fraud?,22
+I do not recognize multiple purchases in my timeline.,22
+My account appears compromised due to strange charges.,22
+I need urgent help with suspected card fraud.,22
+Unknown merchants charged my card today.,22
+How can I freeze my card immediately for fraud protection?,22
+I received transaction alerts for payments I did not authorize.,22
+Please investigate these fraudulent transactions on my card.,22
+My contactless payment is not working at terminals.,23
+Tap-to-pay stopped working on my card.,23
+Why does contactless fail even though the card is active?,23
+I cannot pay by tapping my card on buses or stores.,23
+Contactless gets declined while chip payments still work.,23
+How do I re-enable contactless payments?,23
+My phone and card both fail for contactless transactions.,23
+Is there a limit that disabled my tap payments?,23
+Contactless was working before and now it does not.,23
+What should I check if NFC card payments are failing?,23
+Can you troubleshoot my non-working contactless feature?,23
+I keep getting errors when trying to tap and pay.,23
+Does contactless require activation after receiving a new card?,23
+Tap payments are repeatedly rejected at the checkout.,23
+Please help fix contactless payment failures.,23
+Which countries can I open an account from?,24
+In what regions is this card service available?,24
+Can I apply for a card if I live in the United States?,24
+Please share the list of supported countries.,24
+Is your service available for residents of Canada?,24
+What countries are currently eligible for signup?,24
+Do you support card issuance in my country?,24
+Where can I use this banking service as a resident?,24
+Are there any restricted countries for account creation?,24
+Can travelers from unsupported countries still use the app?,24
+I want to know whether my country is in your coverage.,24
+Is card delivery available outside Europe?,24
+How can I check if my location is supported?,24
+Do you plan to expand to additional countries soon?,24
+Tell me all markets where your cards are offered.,24
+My card payment was declined and I do not know why.,25
+The card does not work at shops even with enough balance.,25
+Why is my card getting rejected at checkout?,25
+I cannot complete purchases because my card keeps failing.,25
+Can you explain repeated declines on my card?,25
+My new card is active but payments still do not go through.,25
+Online and in-store card transactions are both declined.,25
+What should I do if every card payment fails?,25
+The terminal says declined whenever I use my card.,25
+I need help fixing my card payment issue quickly.,25
+"Card transactions were fine before, now all are rejected.",25
+Is there a security block causing card payment failures?,25
+Could a damaged card cause payment declines everywhere?,25
+How can I restore normal card payment functionality?,25
+Please troubleshoot why my card is not working.,25
+ATM withdrawal was declined even though I have funds.,26
+Why can I not withdraw cash from the cash machine?,26
+My card gets declined every time I try to take cash out.,26
+I could not withdraw money at the ATM today.,26
+What causes cash withdrawal attempts to be rejected?,26
+The ATM says transaction declined for cash withdrawal.,26
+I need cash but my withdrawal keeps failing.,26
+Can you check why my ATM withdrawal was denied?,26
+I was unable to access cash from multiple ATMs.,26
+Is there a withdrawal limit blocking my transaction?,26
+"My account balance is fine, but ATM withdrawal is declined.",26
+Please help with repeated declined cash withdrawals.,26
+Do I need to enable something before using ATM withdrawals?,26
+The machine rejected my cash withdrawal request again.,26
+How do I fix a declined cash withdrawal problem?,26
+My bank transfer was declined and did not send.,27
+Why was my transfer request rejected?,27
+I keep getting transfer declined messages.,27
+A transfer I tried to make failed immediately.,27
+Can you explain why my outgoing transfer was refused?,27
+The app says transfer declined every time I submit.,27
+How can I complete a transfer that keeps failing?,27
+My transfer was not processed and shows declined status.,27
+I attempted a transfer twice and both were rejected.,27
+Is there a verification issue causing transfer declines?,27
+What checks should I do when transfers are declined?,27
+Please help me resolve declined bank transfer errors.,27
+I cannot send money because all transfers are rejected.,27
+Why does my transfer fail even with correct recipient details?,27
+I need support for repeatedly declined transfer attempts.,27
+I found a direct debit in my history that I did not authorize.,28
+There is an unknown direct debit on my account.,28
+Can I dispute an old direct debit I just noticed?,28
+Please help me report a suspicious direct debit charge.,28
+I do not recognize this company taking money via direct debit.,28
+How do I challenge a direct debit that is not mine?,28
+An unexpected direct debit appeared in my statements.,28
+I need to cancel and dispute an unauthorized direct debit.,28
+Is it possible to raise a claim for a past direct debit?,28
+I see a direct debit payment I never approved.,28
+Please investigate this unfamiliar direct debit transaction.,28
+Can I recover funds from a fraudulent direct debit?,28
+My account shows recurring direct debit charges I do not know.,28
+I want to file a complaint about an incorrect direct debit.,28
+There is a direct debit error on my record; what can I do?,28
+How do disposable virtual cards work in this app?,29
+Can I create a new disposable card for each purchase?,29
+Are there limits on using disposable cards online?,29
+How many disposable virtual cards can I generate?,29
+Can disposable cards be used for subscriptions?,29
+What are the restrictions for disposable card payments?,29
+Do disposable cards expire after one transaction?,29
+Can I enable disposable cards on my account?,29
+Why can I not access the disposable card feature?,29
+Are disposable cards available on all plan tiers?,29
+Can I use disposable cards in any currency?,29
+Is there a daily cap for disposable card creation?,29
+Do merchants treat disposable cards differently?,29
+How do I turn on disposable virtual card protection?,29
+Please explain eligibility and usage rules for disposable cards.,29
+I need to update my personal details in my profile.,30
+How can I change my home address on my account?,30
+I recently moved and need to edit my address information.,30
+Can I update my legal name in the app after marriage?,30
+Please tell me how to change my personal information.,30
+I entered the wrong address and want to correct it.,30
+Where can I edit my date of birth and contact details?,30
+I want to update my surname and mailing address.,30
+How do I submit a request to change account details?,30
+My profile data is outdated and needs to be changed.,30
+Can support help me modify my registered address?,30
+I need to change the name shown on my account.,30
+What documents are required to update personal details?,30
+I would like to replace my old address with a new one.,30
+How do I correct incorrect personal information in the app?,30
+What fee do you charge for exchanging currencies?,31
+Are there any extra charges when I convert money?,31
+How much does a foreign exchange transaction cost?,31
+Please explain your currency conversion fee structure.,31
+Do you apply hidden fees during FX exchange?,31
+Is there a commission for exchanging USD to EUR?,31
+Why was I charged a fee on my currency exchange?,31
+Can you show the exact fee for currency conversion?,31
+Is exchanging currencies free on my current plan?,31
+What is the percentage fee for FX conversions?,31
+Do exchange fees differ on weekdays and weekends?,31
+I need details about costs for changing currencies.,31
+Is there a discount on exchange fees for frequent users?,31
+How can I avoid high fees when converting currency?,31
+Tell me the total fee applied to my recent exchange.,31
+What exchange rate will I get if I convert today?,32
+Can you show the current FX rate for USD to GBP?,32
+How is the exchange rate calculated in your app?,32
+I want to check the live conversion rate before exchanging.,32
+Is your exchange rate the same as the market rate?,32
+What rate applies to conversions on weekends?,32
+Please tell me the current rate between EUR and USD.,32
+Why does my conversion amount differ from expected rate?,32
+Where can I see the exact rate used for my trade?,32
+Do you use interbank rates for currency conversion?,32
+How often are your foreign exchange rates updated?,32
+Can I lock an exchange rate before confirming conversion?,32
+What rate will apply if I exchange right now?,32
+I need to verify the FX rate used for my transaction.,32
+Does the app display a preview of the conversion rate?,32
+How do I exchange one currency for another in the app?,33
+Can I convert AUD to GBP from my account balance?,33
+I want to switch money from USD into EUR.,33
+Is it possible to exchange between two currencies instantly?,33
+Please guide me through converting GBP to USD.,33
+Can I exchange currencies directly inside the app wallet?,33
+What steps are needed to change my balance currency?,33
+I need to convert funds from EUR to PLN.,33
+Does your app support currency-to-currency exchange?,33
+Can I move money between my currency balances?,33
+Where is the option to exchange currency in the app?,33
+Can I convert part of my balance into another currency?,33
+I want to exchange funds before traveling abroad.,33
+Is there a minimum amount required for currency exchange?,33
+How quickly is an in-app currency exchange completed?,33
+Why is there a small extra charge on my card statement?,34
+I noticed a one-dollar charge I do not understand.,34
+Can you explain this temporary 1 euro charge?,34
+"My statement shows a tiny extra fee, what is it?",34
+Why do I see a small verification charge on my card?,34
+There is an unexpected one-pound transaction on my account.,34
+Is the small card charge a merchant verification hold?,34
+Please clarify this additional minor amount on my statement.,34
+I was billed an extra 1 unit after card usage.,34
+Can the small charge on my statement be reversed?,34
+What causes a one-dollar authorization charge?,34
+I need help understanding this tiny extra card transaction.,34
+Why did an extra one-euro amount appear after purchase?,34
+Is this small extra charge permanent or temporary?,34
+Please investigate the minor fee showing in my statement.,34
+My transfer failed and did not go through.,35
+Why was my bank transfer rejected?,35
+I tried several times but the transfer keeps failing.,35
+Can you explain why my transfer was not completed?,35
+The app says transfer failed every time I submit.,35
+My outgoing transfer is stuck in failed status.,35
+How do I fix a failed money transfer?,35
+What causes standard transfers to fail unexpectedly?,35
+I cannot send money because my transfer is unsuccessful.,35
+Please help me resolve repeated transfer failures.,35
+I entered correct details but transfer still failed.,35
+Is there a service issue causing transfer errors?,35
+"My transfer was canceled automatically, why?",35
+I need urgent help with a failed account transfer.,35
+Can you retry or restore my failed transfer request?,35
+How many currencies can I hold in my account?,36
+Can I keep balances in multiple currencies at once?,36
+Which currencies are supported for account balances?,36
+Is there a limit to the number of currencies I can hold?,36
+"Can I add EUR, USD, and GBP balances together?",36
+Do you support holding money in foreign currencies?,36
+What currency wallets can I open in the app?,36
+Can I store funds in several currencies simultaneously?,36
+Is JPY available as a balance currency?,36
+How do I enable additional currency balances?,36
+Can I maintain both local and foreign currency balances?,36
+Please list the currencies available to hold.,36
+Does my plan limit how many currencies I can keep?,36
+Are all supported currencies available in every country?,36
+I want to check if multi-currency holding is enabled.,36
+How can I get a disposable virtual card?,37
+Where do I enable disposable cards in the app?,37
+I want to create a one-time virtual card for online shopping.,37
+Can I use disposable cards for safer internet payments?,37
+What are disposable virtual cards used for?,37
+Why can I not find the disposable card option?,37
+Do disposable cards regenerate after each transaction?,37
+How do I request access to disposable card feature?,37
+Are disposable virtual cards available on my plan?,37
+Can I create multiple disposable cards per day?,37
+Please explain how one-time cards work.,37
+Is there any fee to use disposable virtual cards?,37
+Can disposable cards be used at any online merchant?,37
+I need help activating disposable card protection.,37
+How quickly can I start using disposable virtual cards?,37
+Where can I find my card PIN in the app?,38
+I never received my PIN and need help retrieving it.,38
+How do I view or reset the PIN for cash withdrawals?,38
+Is the card PIN sent separately from the card?,38
+"My PIN did not arrive, what should I do next?",38
+Can I set a PIN if I do not have one yet?,38
+Please tell me how to access my card PIN securely.,38
+I forgot my PIN and need to recover it.,38
+Can support provide instructions for getting my PIN?,38
+Why can I not see the card PIN details?,38
+Do I need to activate the card before viewing the PIN?,38
+How can I generate a new PIN for my card?,38
+I need the PIN urgently for ATM usage.,38
+Where exactly is the PIN section located in the app?,38
+What verification is required before showing the PIN?,38
+How can I order an extra physical card?,39
+I want a second card for a family member.,39
+Are there fees for issuing additional cards?,39
+Can I request another card linked to my account?,39
+How much does an extra card cost?,39
+"I need a spare card, how do I apply?",39
+Is there a monthly charge for additional cards?,39
+Can I create multiple extra cards on one account?,39
+What are the limits for ordering extra cards?,39
+Please explain pricing for second physical cards.,39
+Can I send an additional card to a different address?,39
+How long does delivery take for extra cards?,39
+Is my plan eligible for supplementary cards?,39
+I would like to add another card for my child.,39
+Where in the app can I request an extra card?,39
+How do I create a virtual card in the app?,40
+I want to order a new virtual card today.,40
+Can I get a virtual card for online purchases?,40
+Where is the option to request a virtual card?,40
+Please help me generate a virtual card.,40
+I need a virtual card but cannot find how to set it up.,40
+Can I open multiple virtual cards on one account?,40
+How quickly can I start using a virtual card?,40
+Is there a fee for creating a virtual card?,40
+I have not received my virtual card details yet.,40
+Can support issue me a new virtual card?,40
+I want a temporary virtual card for safer checkout.,40
+Why is virtual card creation failing for my account?,40
+Is my plan eligible for virtual cards?,40
+Please show steps to activate a virtual card.,40
+My card was stolen and I need to report it immediately.,41
+I lost my wallet and my card is missing.,41
+How do I freeze a lost card right now?,41
+Please block my card because it was stolen.,41
+What should I do after losing my physical card?,41
+Can you help me replace a card that was stolen?,41
+I cannot find my card and I am worried about fraud.,41
+How fast can I get a replacement for a lost card?,41
+Someone took my card; please secure my account.,41
+I need to report a missing card and order a new one.,41
+My card disappeared today; how do I disable it?,41
+Can I track card activity after reporting it lost?,41
+I think my card was stolen at a store.,41
+Please cancel my missing card and issue a replacement.,41
+Urgent help needed: I lost my card.,41
+"My phone was stolen, how do I secure my account?",42
+I lost my phone and need to protect app access.,42
+What should I do first after my phone is stolen?,42
+Can you log me out from a lost mobile device?,42
+How do I prevent someone from opening my banking app?,42
+I cannot find my phone; please help secure my profile.,42
+Should I freeze cards if my phone was stolen?,42
+How can I disable app access from my old phone?,42
+"My device is gone, what security steps are required?",42
+Please guide me through account protection after phone theft.,42
+Can support block access from a stolen handset?,42
+"I left my phone on a train, what should I do now?",42
+How do I recover account control with a new phone?,42
+I am worried someone can use my app from my lost phone.,42
+Need urgent advice for phone loss and account safety.,42
+How can I order a physical card?,43
+What is the price of a physical card delivery?,43
+Can I request a physical card from the app?,43
+Do I need to pay for getting a physical card?,43
+Where can you ship a physical card to?,43
+How long does physical card shipping usually take?,43
+"I want a plastic card, how do I apply?",43
+Is physical card issuance free on my plan?,43
+Can I order a physical card to my current address?,43
+Please tell me all fees for a physical card.,43
+How do I upgrade from virtual to physical card?,43
+Can I track my physical card delivery status?,43
+I need to request a replacement physical card.,43
+Is express shipping available for physical cards?,43
+What are the steps to receive a physical card?,43
+I forgot my app password and cannot sign in.,44
+How do I reset my forgotten passcode?,44
+I do not remember my login credentials anymore.,44
+Please help me recover access after forgetting password.,44
+What is the process to change a forgotten passcode?,44
+I am locked out because I forgot my password.,44
+Can I restore account access without my old passcode?,44
+I need password reset instructions urgently.,44
+My passcode is incorrect and I cannot enter the app.,44
+Where can I trigger a password recovery flow?,44
+"I cannot recall my passcode, what should I do?",44
+How many failed attempts before account lockout?,44
+Can support verify me and reset my password?,44
+I forgot both password and passcode for the app.,44
+Please guide me through login recovery steps.,44
+Why is my card payment still pending?,45
+A purchase remains in pending status for too long.,45
+Can you explain what pending card payment means?,45
+My transaction has not completed and shows pending.,45
+How long do pending card payments usually take?,45
+I made a payment but it has not posted yet.,45
+Is there an issue if payment status stays pending?,45
+Can a pending payment be canceled or reversed?,45
+Why is merchant charge still pending in my app?,45
+I need help with a stuck pending card transaction.,45
+My payment was approved but still marked pending.,45
+When will this pending payment settle completely?,45
+Please check why my recent payment is pending.,45
+I see pending card charges from this morning.,45
+Do pending payments affect available balance immediately?,45
+Why is my cash withdrawal showing as pending?,46
+I already received cash but status is still pending.,46
+ATM withdrawal has not settled yet in the app.,46
+How long does a pending cash withdrawal take to clear?,46
+My withdrawal transaction is stuck in pending state.,46
+Can you check this pending ATM withdrawal for me?,46
+"I took cash out, but account still says pending.",46
+Is it normal for withdrawals to remain pending overnight?,46
+Please explain pending status on my cash withdrawal.,46
+Why has my withdrawal not posted as completed yet?,46
+Can a pending withdrawal be reversed automatically?,46
+I need help with delayed settlement of ATM cash withdrawal.,46
+The cash withdrawal appears twice and one is pending.,46
+When will my pending cash withdrawal finalize?,46
+My ATM transaction has been pending for too long.,46
+My card top up is pending and not reflected in balance.,47
+How long does a top up take to complete?,47
+I added money but top up still shows pending.,47
+Why is my top-up transaction delayed?,47
+Can you check a pending top up on my account?,47
+Top up was charged but funds are not available yet.,47
+What causes top-up payments to stay pending?,47
+My deposit by card is still pending in the app.,47
+When will this pending top up be credited?,47
+I need urgent help with a delayed top up.,47
+Top-up request has not completed after several hours.,47
+Is my pending top up likely to fail or settle later?,47
+Please explain pending status for adding funds.,47
+Balance did not update after initiating top up.,47
+Can pending top-ups be canceled manually?,47
+My bank transfer is pending for too long.,48
+When will my pending transfer be completed?,48
+I sent money and transfer status remains pending.,48
+How long do outbound transfers usually stay pending?,48
+Can you investigate a transfer that has not cleared?,48
+My recipient has not received a transfer marked pending.,48
+Why is my transfer still waiting to process?,48
+Is it normal for SEPA transfer to remain pending?,48
+Please help with delayed pending transfer settlement.,48
+I need this transfer completed today but it is pending.,48
+What can I do if my pending transfer is stuck?,48
+My international transfer still has pending status.,48
+Could incorrect details cause a transfer to stay pending?,48
+Transfer was initiated yesterday and is still pending.,48
+Can pending transfers be canceled before completion?,48
+I entered the wrong PIN too many times and got blocked.,49
+How can I unblock my card PIN after failed attempts?,49
+My PIN is locked because I used incorrect code repeatedly.,49
+Please help reset a blocked PIN quickly.,49
+I exceeded PIN retries and now cannot use my card.,49
+What should I do when PIN attempts are exhausted?,49
+Can support unlock my PIN after too many failures?,49
+My card says PIN blocked at the ATM.,49
+How long does it take for blocked PIN to be unblocked?,49
+I need to recover access after PIN lock.,49
+Is there a way to reset PIN in the app after lockout?,49
+PIN verification failed several times and card is blocked.,49
+Please explain steps to unblock a locked PIN.,49
+I cannot pay because my PIN was blocked.,49
+Can I create a new PIN after too many wrong entries?,49
+Can my employer pay my salary directly to this account?,50
+How do I set up salary payments to my card account?,50
+I want my monthly paycheck to arrive in this account.,50
+What account details should I give HR for salary transfer?,50
+Can I receive wages in GBP into this app account?,50
+Is salary deposit supported for my personal account?,50
+How can my company send payroll to my account?,50
+Can friends transfer money to me using bank details?,50
+Do I need to enable anything before receiving salary?,50
+Please explain how to receive income payments here.,50
+Can I use this account as my primary salary account?,50
+My employer asked for banking details for payroll setup.,50
+How do inbound salary bank transfers work in the app?,50
+Is there a limit on receiving salary transfers?,50
+Can I get paid directly into this account every month?,50
+"My refund has not arrived yet, can you check the status?",51
+I am still waiting for a merchant refund to appear.,51
+Why is my refund missing from my balance?,51
+"The seller confirmed refund, but I cannot see the money.",51
+How long until a processed refund shows in my account?,51
+Please help trace a delayed card refund.,51
+I requested a refund days ago and it is still absent.,51
+Can you investigate why my refund is pending?,51
+Refund was issued but funds are not credited yet.,51
+I need support for a refund that has not posted.,51
+Where can I track the progress of my refund?,51
+My returned purchase has no refund in the app yet.,51
+When will this missing refund be reflected in balance?,51
+Could a refund be completed but not visible to me?,51
+Please confirm whether my refund has been received.,51
+How can I request a refund for a card purchase?,52
+I want to return an item and get my money back.,52
+Can I cancel a payment and receive a refund?,52
+What steps are needed to initiate a refund?,52
+Please tell me how to dispute and refund this purchase.,52
+I need to file a refund request with the merchant.,52
+Is it possible to reverse this recent purchase?,52
+How do refunds work for online card transactions?,52
+Can support help me start a refund process?,52
+I want a refund for something I bought today.,52
+Where do I submit a refund claim in the app?,52
+How long after cancellation is a refund initiated?,52
+Can I request a refund if goods were not delivered?,52
+Please explain the process to get refunded.,52
+I need guidance on obtaining a refund from a merchant.,52
+My card payment was reversed back to my account.,53
+Why was my successful payment reverted later?,53
+The merchant says they did not receive my payment.,53
+"I paid, then the transaction was reversed automatically.",53
+Can you explain a reverted card payment?,53
+My purchase was declined after initially going through.,53
+What causes card payments to be reversed?,53
+I need help with a payment that bounced back.,53
+"Payment was deducted then returned, what happened?",53
+A seller reported missing payment although app showed success.,53
+Why did the card charge disappear from completed payments?,53
+Please investigate this payment reversal issue.,53
+My transaction reverted and the order was canceled.,53
+How can I prevent my card payments from being reverted?,53
+I keep seeing reversed card payments for online purchases.,53
+Which cards are supported for topping up my balance?,54
+Can I top up using an American Express card?,54
+What card types can be used to add money?,54
+Is Visa accepted for account top ups?,54
+Are Mastercard top-ups available in my region?,54
+Can I add funds with a credit card?,54
+What currencies are allowed when topping up by card?,54
+Does top up support international bank cards?,54
+Please list supported cards for adding money.,54
+Why is my card not eligible for top up?,54
+Can I use AMEX to load my account balance?,54
+Are prepaid cards allowed for top-up transactions?,54
+Do supported top-up cards depend on country?,54
+How do I check if my card is accepted for top ups?,54
+What payment networks are valid for card top up?,54
+How do I permanently close my account?,55
+Please delete my account and all associated data.,55
+I want to deactivate my profile immediately.,55
+Can support help me terminate my account?,55
+What is the process for closing an account?,55
+I no longer need this account and want it removed.,55
+How can I shut down my account in the app?,55
+Please guide me through account deletion steps.,55
+Can I close my account from settings?,55
+I need to cancel my account today.,55
+Are there requirements before deleting an account?,55
+Will account closure remove my cards as well?,55
+How long does account deactivation take?,55
+Please proceed with deleting my account.,55
+I want to discontinue this service and close my account.,55
+Are there fees for receiving a SEPA transfer?,56
+Do you charge for incoming SEPA payments?,56
+What is the cost of a SEPA bank transfer?,56
+Will I be charged when money arrives via SEPA?,56
+Please explain SEPA transfer fees on my account.,56
+Is there any commission on SEPA transfers?,56
+Are SEPA top ups free or paid?,56
+How much do SEPA deposits cost?,56
+Do SEPA transfer charges depend on plan type?,56
+Can you confirm whether SEPA incoming transfers are free?,56
+I need fee details for SEPA account funding.,56
+Is there a hidden charge for SEPA transfer receipt?,56
+What fee applies to euro bank transfer top up?,56
+Are outbound and inbound SEPA fees different?,56
+Please clarify all costs related to SEPA transfers.,56
+Is there a fee when I top up by card?,57
+How much does card top up cost in the US?,57
+What are the charges for adding money with a debit card?,57
+Do credit card top ups incur extra fees?,57
+Please show the fee for card-based top up.,57
+Which cards are charged top-up commissions?,57
+Are card top-up fees different by country?,57
+Why was I charged when topping up by card?,57
+Can I avoid fees on card top ups?,57
+Is there a fixed or percentage fee for card top up?,57
+What top-up card fee applies to my plan?,57
+Do US-issued cards have special top-up charges?,57
+I need a breakdown of my top-up card fee.,57
+Are there free limits for topping up by card?,57
+Tell me all fees related to card top-ups.,57
+Can I top up my account using cash?,58
+Is cheque deposit available for account top up?,58
+How do I add money by check to my balance?,58
+Do you support topping up via bank cheque?,58
+Where can I send a cheque to fund my account?,58
+Can I deposit physical cash into this account?,58
+Are cash top-up locations available near me?,58
+I cannot find an option to top up by cheque.,58
+Is cash funding supported in any country?,58
+What alternatives exist if cheque top up is unavailable?,58
+Can I add funds with a cashier's check?,58
+Please confirm whether cash top up is possible.,58
+Do you accept paper checks for account funding?,58
+I need to top up urgently using cash or cheque.,58
+Why is cheque top-up not shown in my app?,58
+My top up failed and the balance did not update.,59
+Why was my card top-up rejected?,59
+I cannot add money because top up keeps failing.,59
+"Top-up transaction was declined, what should I do?",59
+Please help me fix repeated top-up failures.,59
+My top up is not working today at all.,59
+I attempted a top up but it was unsuccessful.,59
+Can you explain why my account funding failed?,59
+Top-up request failed despite sufficient card funds.,59
+How do I resolve a rejected top-up payment?,59
+I keep receiving top-up failed errors in the app.,59
+Was my top-up blocked by security checks?,59
+Card funding fails instantly when I try to top up.,59
+What causes an add-money transaction to be rejected?,59
+Need urgent support for failed top-up attempts.,59
+What is the maximum amount I can top up at once?,60
+Is there a daily limit for top-up transactions?,60
+How much money can I add to my account in one go?,60
+Are top ups unlimited on this plan?,60
+Can I increase my top-up limit?,60
+What is the top-up cap for my account?,60
+How do I check my current top-up limit?,60
+Can I top up more than the standard maximum?,60
+Is there a monthly top-up restriction?,60
+Why am I blocked when topping up a large amount?,60
+Does card top-up have different limits than bank transfer?,60
+Please show the maximum top-up amount allowed.,60
+Can support raise my top-up threshold?,60
+What top-up limits apply to verified accounts?,60
+How much can I top up before extra checks are needed?,60
+My top up was reversed and the money disappeared.,61
+Why was my top-up canceled after it succeeded?,61
+"I saw a top up complete, then it got reverted.",61
+Can you explain why my top-up was refunded back?,61
+My add-money transaction was canceled unexpectedly.,61
+Top-up status changed from completed to reversed.,61
+Please investigate this canceled top-up transaction.,61
+I need help with a top up that was undone.,61
+Where did my topped-up funds go after reversal?,61
+My recent top up vanished from the balance.,61
+Was my top-up blocked by compliance checks?,61
+How do I avoid top-up reversals in future?,61
+Top up got reverted and now I cannot use the funds.,61
+Can you restore a top up that was canceled?,61
+What are common reasons for top-up reversal?,61
+I topped up by card but the money is not visible.,62
+My wallet does not show the top-up amount.,62
+Where is my card top-up balance after payment?,62
+I added funds but my account balance stayed the same.,62
+Top-up completed yet funds are missing in app.,62
+Can you check why my top-up is not showing?,62
+I paid to top up and now the money cannot be found.,62
+My balance did not update after top up.,62
+The top-up amount is missing from my account.,62
+How long until a successful top up appears in wallet?,62
+I cannot see recently added funds in my account.,62
+Top up went through but no funds are available.,62
+Please resolve missing funds from card top up.,62
+Is there a delay before top-up funds become usable?,62
+My top-up was charged but never credited.,62
+I was charged twice for the same purchase.,63
+Why does one transaction appear as a duplicate?,63
+There are two identical charges on my card.,63
+Please remove the duplicate payment from my account.,63
+I see a double charge for a single merchant payment.,63
+How can I dispute a duplicate card transaction?,63
+The same purchase amount was debited two times.,63
+Can you investigate repeated billing for one payment?,63
+My statement shows duplicate transaction entries.,63
+I need help reversing a second accidental charge.,63
+Card got charged twice at the same store today.,63
+Is this duplicate charge temporary or final?,63
+Why do I have two pending charges for one order?,63
+I paid once but got billed twice.,63
+Please fix a duplicated payment in my history.,63
+Why was I charged a fee for making a transfer?,64
+"I thought transfers were free, but I paid extra.",64
+Can you explain the transfer commission on my transaction?,64
+There is an unexpected fee attached to my transfer.,64
+How much are transfer fees on this account?,64
+What caused the extra charge on my money transfer?,64
+Please provide a breakdown of transfer fee costs.,64
+Are there transfer charges for this destination?,64
+I was billed more than the amount I sent.,64
+Can transfer fees be refunded?,64
+Do transfer fees differ by currency or country?,64
+I need details about transfer pricing before sending.,64
+Why does the app add a fee when I transfer money?,64
+Is there a way to avoid transfer charges?,64
+Please clarify this additional transfer cost.,64
+How do I transfer money from my bank to this account?,65
+Please tell me how to make a bank transfer.,65
+"I want to add funds via bank transfer, what are the steps?",65
+Where can I find transfer details for my account?,65
+How can I send money into my wallet from another bank?,65
+I need instructions to initiate a bank transfer.,65
+Can I connect my external bank account for transfers?,65
+How do I move funds from bank account to app balance?,65
+What information do I need to start a transfer?,65
+How can I receive a transfer into my account?,65
+Please guide me through transfer setup in the app.,65
+I have zero balance; how do I transfer money in?,65
+Can I top up using regular bank transfer instead of card?,65
+Where do I find IBAN and reference for transfers?,65
+How do I link my bank account for funding transfers?,65
+My transfer is taking too long to arrive.,66
+Why is the transfer still pending after many hours?,66
+Recipient has not received the money yet.,66
+Can you check the delay on my outgoing transfer?,66
+How long should a domestic transfer normally take?,66
+Transfer has not posted even though details were correct.,66
+I sent funds yesterday and they are still missing.,66
+Is there an issue causing delayed transfer processing?,66
+Please investigate my overdue bank transfer.,66
+Why is this transfer not completed yet?,66
+My friend needs the money now but transfer is delayed.,66
+Could verification checks be delaying my transfer?,66
+Transfer processing time seems unusually long.,66
+Can delayed transfers be expedited?,66
+I need help with a transfer stuck in progress.,66
+When will my incoming transfer reach my account?,67
+How long do inbound transfers usually take to appear?,67
+I am waiting for money transfer to be credited.,67
+Can you estimate arrival time for my transfer?,67
+Why has my received transfer not shown up yet?,67
+Please tell me expected time for funds to arrive.,67
+My transfer from abroad is still not in balance.,67
+How soon should I see a completed incoming transfer?,67
+I am waiting for transfer confirmation in the app.,67
+When does transferred money become available to spend?,67
+Transfer was sent to me but I have not received it.,67
+Can incoming transfers take more than one business day?,67
+Please check status of transfer coming to my account.,67
+How long does a US transfer take to be credited?,67
+I need timeline for transfer arrival into my account.,67
+"I cannot complete identity verification, please help.",68
+Why is my ID verification failing in the app?,68
+What could cause my identity check to be rejected?,68
+I uploaded documents but verification did not pass.,68
+Can support assist with failed identity verification?,68
+I am having trouble verifying my personal identity.,68
+How do I fix issues with KYC verification?,68
+My identification was declined even with valid documents.,68
+Please explain why my ID proof is not accepted.,68
+What should I do if identity verification is stuck?,68
+I need urgent help to pass account verification.,68
+Are photo quality issues causing my ID rejection?,68
+Verification keeps failing although details are correct.,68
+Can I retry identity verification with another document?,68
+How can I resolve persistent identity check errors?,68
+What documents are required to verify my identity?,69
+How do I complete identity verification step by step?,69
+Can you tell me how to prove my identity online?,69
+I need instructions for account identity verification.,69
+Which ID types are accepted for verification?,69
+Where in the app do I submit identity documents?,69
+How can I verify that I am the account owner?,69
+Do I need a selfie for identity verification?,69
+Please explain the full KYC verification process.,69
+How long does identity verification usually take?,69
+Can I verify identity with passport instead of ID card?,69
+What happens if my identity verification is incomplete?,69
+I want to start the identity verification process now.,69
+How do I submit proof of identity successfully?,69
+What should I prepare before beginning verification?,69
+How can I see where incoming money came from?,70
+I need details about the source of funds in my account.,70
+Where does this received money originate from?,70
+Can I check who sent these funds to me?,70
+Please show the origin of this incoming transfer.,70
+I want to trace the source of my recent deposit.,70
+How do I find the sender for money I received?,70
+What information is available about fund origin?,70
+Can you identify where this account credit came from?,70
+I received money and need proof of source.,70
+How can I verify the source account for this transfer?,70
+Where in the app can I view source-of-funds details?,70
+I need clarification on where this payment came from.,70
+Please provide source details for my incoming money.,70
+Can I download a statement showing fund source?,70
+How do I verify my top-up card before using it?,71
+Where can I find the verification code for card top up?,71
+"My top-up card needs verification, what should I do?",71
+Can you explain the steps to verify a top-up card?,71
+Why is my top-up card asking for additional verification?,71
+I cannot complete card top up because verification fails.,71
+How can I confirm my card for top-up payments?,71
+Please help me verify this card for top ups.,71
+What checks are needed to approve my top-up card?,71
+Where do I enter the code to verify top-up card?,71
+My card is not verified for top up yet.,71
+How long does top-up card verification take?,71
+Can support verify my card for add-money transactions?,71
+I need to validate my card before topping up.,71
+What causes top-up card verification errors?,71
+My disposable virtual card is not working at checkout.,72
+Why is my virtual card being declined online?,72
+I cannot make payments with my disposable card.,72
+The virtual card fails every time I try to pay.,72
+Can you troubleshoot a non-working virtual card?,72
+My disposable card is active but transactions fail.,72
+Why won't my one-time virtual card process payments?,72
+Is my virtual card blocked for subscriptions?,72
+Please help fix declined payments on my virtual card.,72
+My online purchase keeps failing with disposable card.,72
+Can virtual cards be used for recurring membership charges?,72
+I keep getting errors when using virtual card details.,72
+How do I reactivate a virtual card that is not working?,72
+What are common reasons virtual card payments fail?,72
+My disposable card does not work even with correct details.,72
+Can I get a Mastercard instead of a Visa?,73
+Do you offer Mastercard cards for this account?,73
+"I prefer Mastercard, can I switch card network?",73
+Is Visa the only card type available to me?,73
+How can I order a Mastercard version of my card?,73
+Can I replace my current card with Mastercard?,73
+Are both Visa and Mastercard supported?,73
+"I do not want Visa, can I choose Mastercard?",73
+Which card schemes are available for new cards?,73
+Can I request Mastercard during card reissue?,73
+Is Mastercard availability country dependent?,73
+Please explain how to select card network type.,73
+Do premium plans include Mastercard option?,73
+Can support change my card from Visa to Mastercard?,73
+How do I check whether Mastercard is offered for me?,73
+Why do you require identity verification for my account?,74
+What is the purpose of the identity check process?,74
+Why do I need to submit personal ID documents?,74
+Can you explain why identity checks are mandatory?,74
+"I am not comfortable with ID checks, why are they needed?",74
+What regulations require this identity verification?,74
+Why do you ask for so much personal information?,74
+How does identity verification protect my account?,74
+Is identity check required for all users?,74
+Please clarify the reason for KYC verification.,74
+Why can I not use the account without identity check?,74
+What happens if I do not complete identity verification?,74
+Is this identity check for fraud prevention purposes?,74
+Can you explain the legal basis for ID verification?,74
+Why are selfies and documents required to verify identity?,74
+I withdrew cash but received less than requested.,75
+Why did the ATM give me only part of my withdrawal?,75
+My cash withdrawal amount is lower than expected.,75
+I asked for 100 but ATM dispensed only 20.,75
+Can you help with a partial ATM cash withdrawal?,75
+My account shows full withdrawal but I got less cash.,75
+What should I do if ATM paid out only part of amount?,75
+I was shorted during an ATM transaction.,75
+Please investigate incorrect cash amount from ATM.,75
+Why does withdrawal receipt differ from cash received?,75
+The ATM transaction amount does not match dispensed cash.,75
+How can I dispute incomplete cash withdrawal?,75
+I need a refund for missing cash from ATM withdrawal.,75
+Cash withdrawal was processed wrong by the machine.,75
+My withdrawal was partial and I want correction.,75
+The exchange rate on my cash withdrawal was incorrect.,76
+I received less cash due to a bad conversion rate.,76
+Why was ATM exchange rate so unfavorable?,76
+My foreign cash withdrawal used the wrong FX rate.,76
+Can you check exchange rate applied to this ATM withdrawal?,76
+I think I was overcharged on currency conversion at ATM.,76
+The withdrawn amount is too low because of exchange rate.,76
+Please investigate poor conversion rate for cash withdrawal.,76
+Why does ATM conversion differ from expected market rate?,76
+I was charged too much when withdrawing abroad.,76
+Could dynamic currency conversion cause this overcharge?,76
+The FX rate used for my cash transaction seems wrong.,76
+I need a breakdown of conversion on ATM withdrawal.,76
+Can I dispute an unfair exchange rate on cash withdrawal?,76
+My international cash withdrawal had an incorrect conversion.,76

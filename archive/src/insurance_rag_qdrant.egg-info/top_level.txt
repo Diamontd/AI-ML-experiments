@@ -1,6 +1,0 @@
-__init__
-data_loader
-embeddings
-main
-retrieval
-vector_store

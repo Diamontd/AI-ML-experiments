@@ -1,28 +1,18 @@
-# Python
+# Python, Notebooks, Envs
+.venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Environments
-.env
-.venv/
-env/
-venv/
-ENV/
-
-# Jupyter
 .ipynb_checkpoints/
+*.egg-info/
 
-# Project Data & Cache
-qdrant_data/
-qdrant_data_benchmark_v2/
+# Data Dumps explicitly ignored if they shouldn't be backed up in future usage
+# We're allowing small valid subsets but generally suppressing larger or untracked ones.
+*.qdrant_data*/
+*.lock
 
-# Large/Generated Files
-*.jsonl
-benchmark_backup.ipynb
+# VS Code
+.vscode/
 
-# Dynamic Storage
-qdrant_storage*/
-wandb/
-models/
+# Ignore large model checkpoints
+checkpoint/
+runs/
