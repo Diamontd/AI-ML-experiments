@@ -1,4 +1,4 @@
-# SBER Information Retrieval & Agentic Frameworks
+# Information Retrieval & Agentic Frameworks
 
 Welcome to this repository with some of my small experimentsith different areas of Artificial intelligence.
 
