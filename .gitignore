@@ -9,10 +9,12 @@ __pycache__/
 # We're allowing small valid subsets but generally suppressing larger or untracked ones.
 *.qdrant_data*/
 *.lock
-
+*.json
 # VS Code
 .vscode/
 
 # Ignore large model checkpoints
 checkpoint/
 runs/
+*.jpg
+*/train
