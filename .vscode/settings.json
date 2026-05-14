@@ -27,5 +27,6 @@
       "tools": ["xelatex"]
     }
   ],
-  "latex-workshop.latex.recipe.default": "xelatex"
+  "latex-workshop.latex.recipe.default": "xelatex",
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
